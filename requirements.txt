@@ -1,0 +1,14 @@
+injector==0.22.0
+
+pydantic==2.10.6
+pydantic-settings==2.7.1
+
+beautifulsoup4==4.13.3
+requests==2.32.3
+cloudscraper==1.2.71
+chonkie==0.4.1
+transformers==4.48.2
+torch==2.2.2
+gradio==5.15.0
+pandas==2.2.3
+numpy==1.26.4

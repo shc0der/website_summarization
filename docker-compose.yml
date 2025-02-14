@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+  app:
+    container_name: "summarization"
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "7860:7860"
+    volumes:
+      - ./data:/home/data

@@ -1,0 +1,18 @@
+[
+  {
+    "model": "t5-large",
+    "tokens": 512
+  },
+  {
+    "model": "google/pegasus-xsum",
+    "tokens": 512
+  },
+  {
+    "model": "philschmid/bart-large-cnn-samsum",
+    "tokens": 1024
+  },
+  {
+    "model": "facebook/bart-large-cnn",
+    "tokens": 1024
+  }
+]
