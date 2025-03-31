@@ -1,7 +1,7 @@
 # Testing of summarization
 
 An application for automatically summarizing the text of websites
-
+![MAIN PAGE](./screen/screen.png)
 ## Getting Started
 
 1. Build the Docker image:
